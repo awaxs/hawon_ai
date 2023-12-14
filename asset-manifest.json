@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hawon_ai/static/css/main.be5ed728.chunk.css",
+    "main.js": "/hawon_ai/static/js/main.185a872f.chunk.js",
+    "main.js.map": "/hawon_ai/static/js/main.185a872f.chunk.js.map",
+    "runtime~main.js": "/hawon_ai/static/js/runtime~main.3b0239d1.js",
+    "runtime~main.js.map": "/hawon_ai/static/js/runtime~main.3b0239d1.js.map",
+    "static/js/2.a695d15d.chunk.js": "/hawon_ai/static/js/2.a695d15d.chunk.js",
+    "static/js/2.a695d15d.chunk.js.map": "/hawon_ai/static/js/2.a695d15d.chunk.js.map",
+    "index.html": "/hawon_ai/index.html",
+    "precache-manifest.1ef2aed3c83a400263cd78b26b885015.js": "/hawon_ai/precache-manifest.1ef2aed3c83a400263cd78b26b885015.js",
+    "service-worker.js": "/hawon_ai/service-worker.js",
+    "static/css/main.be5ed728.chunk.css.map": "/hawon_ai/static/css/main.be5ed728.chunk.css.map",
+    "static/media/styles.css": "/hawon_ai/static/media/AI.43327df2.jpg"
+  }
+}
