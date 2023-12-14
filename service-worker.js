@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hawon_ai/precache-manifest.230d884b530c48f7075aac689dbfb6da.js"
+  "/hawon_ai/precache-manifest.c990bf0cac3b5ddcf6f15c660bea8b13.js"
 );
 
 self.addEventListener('message', (event) => {
