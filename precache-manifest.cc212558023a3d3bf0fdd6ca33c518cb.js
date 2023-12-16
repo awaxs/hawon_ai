@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7aa81339a6b4c48742415fd3b5002d58",
+    "revision": "cb7e4ea32402d62cbf255a2793a3500c",
     "url": "/hawon_ai/index.html"
   },
   {
-    "revision": "7570f9cf03e715084899",
-    "url": "/hawon_ai/static/css/main.15924210.chunk.css"
+    "revision": "53018a389ea5b84d0c8a",
+    "url": "/hawon_ai/static/css/main.3a2e2851.chunk.css"
   },
   {
     "revision": "4ed525572b5ae564d0f0",
     "url": "/hawon_ai/static/js/2.a695d15d.chunk.js"
   },
   {
-    "revision": "7570f9cf03e715084899",
-    "url": "/hawon_ai/static/js/main.c2d31995.chunk.js"
+    "revision": "53018a389ea5b84d0c8a",
+    "url": "/hawon_ai/static/js/main.9e9fc2aa.chunk.js"
   },
   {
     "revision": "8edeaafc6e7bdfb4a898",
